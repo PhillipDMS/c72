@@ -1,0 +1,11 @@
+.travel_maindiv{
+    border:1px solid lightgreen;
+}
+.travel_maindiv img{
+    width:100%;
+}
+iframe{
+    width:100%;
+    margin:30px;
+    height: 80%;
+}
